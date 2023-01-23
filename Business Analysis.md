@@ -1,7 +1,10 @@
 # 1. Introduction
 ## 1. Business purpose
+  * JustFixIt is a residential remodeling company local to Southwest Florida. The business consistently has multiple jobs at different stages happening simultaneously. Due to this, the business has much of its resources spread among various job sites, trailers, a central shop, etc. at any given time. Typically, when supplies are requested on a job site, the site supervisor makes a trip to the nearest hardware store to pick up these supplies. Most of the new supplies being purchased on a daily basis are readily available within the company's inventory, yet there is currently no available method for employees to check the company's inventory from a single point of access. This causes much of the available inventory to get "buried" or become lost or forgotten, therefore causing these in-house supplies to not be completely consumed. This reduces efficiency and increase costs. The business needs a central, single point of access inventory management system to reduce operating costs, increase efficiency of supply usage, and increase overall operational productivity.
 ## 2. Business scope
+  * The domain of operation is residential remodeling, or more generally, construction. The acquisition, storage, and deployment of resources and supplies to various job sites is a large part of ensuring operational efficiency of the business. Employees on the various job sites can get jobs done faster if resources are readily available and their location is known. The proposed system will provide a single point of access to the company's inventory at any given time, allowing employees to track and record inventory as it moves. This will allow supervisors to make informed decisions on how to source supplies as they are needed, making the process of sourcing supplies more efficient and cost effective.
 ## 3. Overview
+  * The owner of the business as well as the site supervisors participate directly in the process of sourcing supplies for the various job sites on a daily basis. There is a constant issue of operations halting due to lack of resources to complete jobs. Therefore, there is a repeated cycle of supervisors constantly going to hardware stores to puchase new supplies rather than sourcing them from the business' inventory.
 ## 4. Definitions 
 ## 5. Major stakeholders 
 # 2. References
@@ -9,6 +12,7 @@
 ## 1. Business environment
 ## 2. Mission, goals, and objectives
 ## 3. Business model
+  * Better planning from the start of each job and throughout the duration of the project until completion, performed by the supervisors.
 ## 4. Information environment
 # 4. Business operational requirements
 ## 1. Business processes
