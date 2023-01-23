@@ -6,18 +6,36 @@
 ## 3. Overview
   * The owner of the business as well as the site supervisors participate directly in the process of sourcing supplies for the various job sites on a daily basis. There is a constant issue of operations halting due to lack of resources to complete jobs. Therefore, there is a repeated cycle of supervisors constantly going to hardware stores to puchase new supplies rather than sourcing them from the business' inventory.
 ## 4. Definitions 
+  * Not applicable.
 ## 5. Major stakeholders 
+  * The owner would like the system to reduce costs and increase operational efficiency of the business.
+  * The site supervisors would like the system to reduce trips to the hardware store and increase job site productivity.
+  * The employees would like the system to be simple and efficient to use.
 # 2. References
+  * Brad Johnson (Owner) at JustFixIt.
 # 3. Business management requirements
 ## 1. Business environment
+  * The nature of the business is influenced by state and local laws and building codes that regulate the construction industry.
+  * https://www.floridabuilding.org/bc/bc_default.aspx
 ## 2. Mission, goals, and objectives
+  * The proposed system will reduce supply costs and increase operational efficiency on job sites. The system will also improve productivity of the site supervisors as they will spend less time going to hardware stores to purchase supplies.
 ## 3. Business model
-  * Better planning from the start of each job and throughout the duration of the project until completion, performed by the supervisors.
+  * Better planning from the start of each job and throughout the duration of the project until completion, performed by the supervisors using the inventory management system. This will ensure in-house supplies are used first and used to completion before purchasing new supplies. Employees will use the system to identify what supplies they have readily available around them and to log locations and amounts used of materials when storing them.
 ## 4. Information environment
+  * A single point of access database will store all company inventory data.
 # 4. Business operational requirements
 ## 1. Business processes
+  * Bidding potential jobs.
+  * Job preparation.
+  * Completing the job.
+  * Generating invoices for completed jobs.
 ## 2. Business operational policies and rules
+  * This business does not have a policies and procedures manual as it is a small, local business.
 ## 3. Business operational constraints
 ## 4. Business operational modes
 ## 5. Business operational quality
 ## 6. Business structure
+  * Owner
+  * Supervisor
+  * Site supervisors
+  * Employees (Laborers)
