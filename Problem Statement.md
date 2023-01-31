@@ -2,4 +2,8 @@
 JustFixIt is experiencing problems communicating with clients as well as showcasing products. The company's primary methods of communication and marketing with clients have been by phone and word of mouth for 30 years. The average age of a client of the business has been about 60 during this time. However, during the life of the business, technology has come to the forefront in today's society and although the average age of clients has not changed, their dependence on technology has. Due to the increase in computer and mobile phone (particularly smartphone) use among the target age group, their demand for the ability to see products, designs, services offered, and past work instantaneously and at their own convenience has also increased. The company has identified that they are attracting as well as retaining 50 percent less clients than competitors due to an increased online presence of their target age group. The company has no online presence of any form at this time. The business needs a single platform enabling same day communications and the ability to showcase products, services, and experiences on demand with clients in one central point-of-access.
 
 # Assumptions
-
+* People that have purchased smartphones, laptops, or tablets are capable and intending to use them to communicate and look at products and services online.
+* Typical day-to-day operations and existing projects will not be affected by a possible recession in the near future.
+* The average age of clients or the targeted age group will not change in the near future.
+* The amount of ongoing projects will continue to grow, requiring more extensive communication efforts.
+* The business will grow substantially in the wake of Hurricane Ian as restoration needs are extensive in Southwest Florida.
