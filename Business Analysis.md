@@ -42,10 +42,18 @@
 # 5. Preliminary operational concept of proposed system
 ## 5.1 Preliminary operational concept
 ### a) operational policies and constraints;
+  * In accordance with business operational policies, the system will ensure same day communication with clients. The business operates strictly within Southwest Florida, particularly Collier and Lee counties. The platform will inform potential clients on these geographical limits before allowing them to request an estimate or begin communications with the business.
 ### b) description of the proposed system;
+  * The system will consist of a single-point-of-access platform that showcases products and services offered. The platform will also enable open communication between the business and clients and will be the primary communication method for clients. The system will facilitate opening new projects as clients will be able to request estimates through the platform.
 ### c) modes of system operation;
+  * The system will have the following modes of operation:
+    * Discovery - Users will explore products and services offered on the platform.
+    * Communication - Users will be able to communicate directly with the business through the platform.
+    * Scheduling/Requests - Users can request estimates from the business and request a specific date and time preferred.
 ### d) user classes and other involved personnel; and
+  * The primary user class will be clients of the business as they will use the platform for discovery, communication, and requests. The owner and supervisors of the business will also use the platform for communication with clients and evaluating estimate requests for scheduling purposes.
 ### e) support environment.
+  * The development firm (myself) will provide support throughout employee training for use of the system. The firm will also provide long-term support and maintenance for the system throughout the life of the system.
 ## 5.2 Preliminary operational scenarios
 # 6. Other preliminary life-cycle concepts
 ## 6.1 Preliminary acquisition concept
