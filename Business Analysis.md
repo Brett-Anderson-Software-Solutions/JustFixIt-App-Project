@@ -55,11 +55,25 @@
 ### e) support environment.
   * The development firm (myself) will provide support throughout employee training for use of the system. The firm will also provide long-term support and maintenance for the system throughout the life of the system.
 ## 5.2 Preliminary operational scenarios
+  1. Client Discovery
+    * Potential clients will browse the products and service offered on the platform to see if the company is a good fit for their home improvement project. If the potential client decides to move forward with the company for their project, they can initiate an estimate request through the platform, requesting the business to come to their home and provide a bid for the desired home improvement project. The business owner can then confirm scheduling or respond to their request through the platform.
+  2. Communication between Business Owner and Client
+    * A client wants to add painting of the full interior of their home to an ongoing project. The client uses the platform to send a message to the business owner requesting an estimate for this addition to the project. The business owner responds the same day informing the client of a price and updated timeline for the addition to the project. The client responds confirming they would like to move forward with this addition to the project. The business owner sends a confirmation message and updated invoice to the client the same day and adds the addition to the project outline.
+  3. Important Project Updates
+    * The business underestimated how long a certain portion of the project would take to complete, and now they are running behind schedule. The business owner needs to inform the client of this change to the timeline and potential additional costs. The business owner immediately sends a message to the client via the platform to inform them of this update. The client responds immediately indicating that they would like to terminate the project due to increased costs and timeline. The business owner can now negotiate the price to try to retain the project or confirm the termination and pull any employeees from the project site before any unpaid work is performed.
 # 6. Other preliminary life-cycle concepts
 ## 6.1 Preliminary acquisition concept
+  * Stakeholders involved in the process of solution development will include the business owner, development firm (me), current clients of the business, supervisors, and employees. The solution and requirements will be sourced from collaboration through meetings and dicussions as well as elicitation through surveys and interviews. Once formed, the solution will be developed by the developing firm (me) while all stakeholders will participate in design decisions throughout the development process. Verification will be implemented by testing on the system (performed by the development firm) as well as frequent deliveries of working software that can be validated by all of the stakeholders.
 ## 6.2 Preliminary deployment concept
+  * The developing firm will deliver working software frequently (every 2 weeks) that is discussed with and validated by the stakeholders. Feeedback will be provided and changes will be implemented in the next delivery, if possible. As these deliveries are validated, they will be moved into the production environment iteratively.
 ## 6.3 Preliminary support concept
+  * The developmeent firm (myself) will provide direct training to the business owner and employees as well as some current clients. There will be an overview video available as well providing the best ways to use the system effectively. Maintenance support will be performed by the development firm for the life of the system. Engineering and operating support will also be managed by the development firm for the life of the system. No additional support personnel will be required. The business will be able to reach out to the development firm directly for support as needed.
 ## 6.4 Preliminary retirement concept
+  * The system will be removed from the production environment when the development firm can no longer support the system or the business requires new methods of attracting business or communicating with customers. The development firm will handle retiring the system by removing access to it from the business slowly as temporary solutions are put in place to replace it.
 # 7. Project Constraints
+  * The system needs to be deployed and operational by 2024, therefore simplicity will be key in evaluating solutions as there may not be time to create extensive features. Costs will not play a factor in this project as it is being completed at no cost to the business. The business will need to consider server and other hosting costs for the life of the system (if it is deployed on the web).
 # 8. Appendix
 ## 8.1 Acronyms and abbreviations
+  * Estimate - Planning the job and providing a potential price for the project to a potential client.
+  * Bid = The potential price of the home improvement project.
+  * Project Outline = The complete list of activities to be completed, signifying the project is complete.
