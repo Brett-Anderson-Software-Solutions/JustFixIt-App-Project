@@ -1,2 +1,2 @@
 # JustFixIt-App-Project
-An app to track clock-ins and location when employees are on the job.
+A web site for JustFixIt to facilitate more efficient communication with customers and showcase services offered.
